@@ -7,5 +7,23 @@ The Customer Order Analysis application helps analyse customer purchasing behavi
 
 3. DIVISION: By analysing the pattern of individual order, we can design an application based on their preferences for each individual
 
+# island-escape-python
+
+Island Escapade is an adventure game in which the player has to enter their name to start the game by rowing a boat. If the player wants to continue the game, he has to cross the four dangers ahead of him to find the treasure.
+1. He has to escape from the killing knives by bending down; if not, he will get hurt by them, and the game is over
+2. He has to row by avoiding rocks; if not, he will hit them, and the game is over 
+3. He has to escape from dangerous tides in the sea by rowing fast to cross the third hurdle; otherwise, the boat is flipped, so the game is over
+4. After he crosses the third hurdle, he enters the island, but he has to face a monster mermaid sitting at the seashore and kill it
+5. Then he had to find the golden key to open the hidden treasure by crossing a poisonous snake
+6. Then he has to open the hidden treasure to win the game
+
+How I took the help of Co-pilot to complete the game:
+1. Initially, I wrote the steps on how to start, what hurdles to be added, and how to finish the game on paper
+2. Co-pilot suggested correct print statements in the overall game
+3. When I started writing code with comments on it in the hurdles part, it suggested clear logic with some small modifications, which I made in them
+4. It clearly points out the indentation errors so that I can correct them fast
+5. It was very helpful for code completion, which avoided a lot of typing for me
+6. It saved a lot of time in the coding part
+
 
 
