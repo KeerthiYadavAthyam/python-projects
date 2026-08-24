@@ -17,13 +17,7 @@ Island Escapade is an adventure game in which the player has to enter their name
 5. Then he had to find the golden key to open the hidden treasure by crossing a poisonous snake
 6. Then he has to open the hidden treasure to win the game
 
-How I took the help of Co-pilot to complete the game:
-1. Initially, I wrote the steps on how to start, what hurdles to be added, and how to finish the game on paper
-2. Co-pilot suggested correct print statements in the overall game
-3. When I started writing code with comments on it in the hurdles part, it suggested clear logic with some small modifications, which I made in them
-4. It clearly points out the indentation errors so that I can correct them fast
-5. It was very helpful for code completion, which avoided a lot of typing for me
-6. It saved a lot of time in the coding part
+
 
 
 
